@@ -55,7 +55,7 @@ const projectList = computed(() => {
 
 // 跳转至 Github
 const toGithub = (data) => {
-  window.open(`https://github.com/${data.author}/${data.name}`);
+  window.open(`https://666.mdl6.top}`);
 };
 </script>
 
